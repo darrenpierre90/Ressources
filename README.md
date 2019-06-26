@@ -22,6 +22,8 @@
 - [RL Learning Playlist](https://www.youtube.com/playlist?list=PLV_1KI9mrSpGFoaxoL9BCZeen_s987Yxb)
 
 ## Git/Github
+- [Git Concepts](https://www.youtube.com/playlist?list=PLZUPq7POLO7_MpuOH6TKSuGubm3gEHOX1)
+- [Git cheatsheet](https://www.geeksforgeeks.org/list-useful-github-commands/)
 
 ## JavaScript
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
@@ -50,3 +52,4 @@
 - [Computer Networking](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP5wYwirQbMv5vKdPpJ_O_I)
 - [SQL](https://www.youtube.com/playlist?list=PLmAuaUS7wSOMFH_UpwWfUVEdth7cfFZzw)
 - [Sql - Oracle](https://www.youtube.com/playlist?list=PL8rcHwQO3nbIEWTA6puHQXYls-m4OxyC4)
+- [data science ](https://github.com/amrrs/For-Data-Science-Beginners)
