@@ -1,4 +1,4 @@
-#CS Ressources
+# CS Ressources
 
 ## Machine Learning
 - [Simplilearn Machine Learning Youtube Playlist ](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)
