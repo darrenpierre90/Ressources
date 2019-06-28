@@ -13,13 +13,20 @@
 ## IT Security 
 - [IT security - playlist ](https://www.youtube.com/playlist?list=PLmAuaUS7wSONCNeRlehLHK4_SvYxG3UPj)
 ## Docker
-
+* [Docker Overview](https://docs.docker.com/engine/docker-overview/)
+- [Basic Docker Concepts](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4bhttps://docs.docker.com/get-started/)
+- [Docker Tutorial](https://docs.docker.com/get-started/)
+- [Developing with Docker](https://docs.docker.com/develop/)
+- [Docker Ecosystem](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+- [Differences between Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
+- [Other stuff with Docker](http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/)
 ## Linux
 
 ## AI
 - [AI in Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
 - [AI- MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [RL Learning Playlist](https://www.youtube.com/playlist?list=PLV_1KI9mrSpGFoaxoL9BCZeen_s987Yxb)
+- [Top 20 free books to get started with Artificail intelligence](http://bigdata-madesimple.com/20-free-books-to-get-started-with-artificial-intelligence/)
 
 ## Git/Github
 - [Git Concepts](https://www.youtube.com/playlist?list=PLZUPq7POLO7_MpuOH6TKSuGubm3gEHOX1)
