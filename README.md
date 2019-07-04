@@ -61,7 +61,7 @@
 - [data science ](https://github.com/amrrs/For-Data-Science-Beginners)
 - [Craiglist Checkout](https://github.com/gjreda/craigslist-checker)
 
-## python
+## Python
 - [Real world examples of reinforcement learning - Artificial Intelligence with Python](https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781786464392/15/ch15lvl1sec143/real-world-examples-of-reinforcement-learning)
 - [Implementing a Neural Network from Scratch in Python – An Introduction – WildML](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 - [Artificial Intelligence with Python Primer Concept](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_primer_concepts.htm)
@@ -74,7 +74,7 @@
 - [How to Create a Simple Neural Network in Python](https://www.kdnuggets.com/2018/10/simple-neural-network-python.html)
 - [Building Machine Learning Systems with Python: Explore machine learning and deep learning techniques for building intelligent systems using scikit-learn and TensorFlow, 3rd Edition: Luis Pedro Coelho, Wilhelm Richert, Matthieu Brucher: 9781788623223: Book](https://www.amazon.ca/Building-Machine-Learning-Systems-Python/dp/1788623223)
 - [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
-- [Beautiful Soup Tutorial)(https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)
+- [Beautiful Soup Tutorial](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)
 - [Learning Selenium Testing Tools with Python - pdf - Free IT eBooks Download](http://www.allitebooks.org/learning-selenium-testing-tools-with-python/)
 - [Expert Python Programming, Second Edition - pdf - Free IT eBooks Download](http://www.allitebooks.org/expert-python-programming-second-edition/)
 - [Foundations for Analytics with Python - pdf - Free IT eBooks Download](http://www.allitebooks.org/foundations-for-analytics-with-python/)
