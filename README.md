@@ -30,6 +30,7 @@
 ## Git/Github
 - [Git Concepts](https://www.youtube.com/playlist?list=PLZUPq7POLO7_MpuOH6TKSuGubm3gEHOX1)
 - [Git cheatsheet](https://www.geeksforgeeks.org/list-useful-github-commands/)
+- [Online book on Git](https://launchschool.com/books/git)
 
 ## JavaScript
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
