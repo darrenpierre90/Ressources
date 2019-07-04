@@ -60,6 +60,7 @@
 - [Sql - Oracle](https://www.youtube.com/playlist?list=PL8rcHwQO3nbIEWTA6puHQXYls-m4OxyC4)
 - [data science ](https://github.com/amrrs/For-Data-Science-Beginners)
 - [Craiglist Checkout](https://github.com/gjreda/craigslist-checker)
+- [CLasses](https://cognitiveclass.ai/)
 
 ## Python
 - [Artificial Intelligence with Python Primer Concept](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_primer_concepts.htm)
