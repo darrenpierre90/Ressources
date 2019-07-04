@@ -20,7 +20,6 @@
 - [Docker Ecosystem](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 - [Differences between Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
 - [Other stuff with Docker](http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/)
-## Linux
 
 ## AI
 - [AI in Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq)
