@@ -1,5 +1,8 @@
 # CS Ressources
 
+
+## How does the internet work?
+- [HTTP](https://launchschool.com/books/http/read/introduction)
 ## Machine Learning
 - [Simplilearn Machine Learning Youtube Playlist ](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)
 - [DeepLearning-GooglePlaylist](https://www.youtube.com/playlist?list=PLmAuaUS7wSOPgy8ovvHjee7-9PYInPS6P)
