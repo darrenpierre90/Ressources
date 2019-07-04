@@ -16,7 +16,7 @@
 ## IT Security 
 - [IT security - playlist ](https://www.youtube.com/playlist?list=PLmAuaUS7wSONCNeRlehLHK4_SvYxG3UPj)
 ## Docker
-* [Docker Overview](https://docs.docker.com/engine/docker-overview/)
+- [Docker Overview](https://docs.docker.com/engine/docker-overview/)
 - [Basic Docker Concepts](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4bhttps://docs.docker.com/get-started/)
 - [Docker Tutorial](https://docs.docker.com/get-started/)
 - [Developing with Docker](https://docs.docker.com/develop/)
