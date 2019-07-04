@@ -80,15 +80,6 @@
 - [Essential Math for Data Science:  ‘Why’ and ‘How’](https://www.kdnuggets.com/2018/09/essential-math-data-science.html)
 - [How To Learn Data Science If You’re Broke](https://www.kdnuggets.com/2018/10/learn-data-science-broke.html)
 - [How to Create a Simple Neural Network in Python](https://www.kdnuggets.com/2018/10/simple-neural-network-python.html)
-- [None](http://www.cse.unsw.edu.au/~en1000/haskell/inbuilt.html)
-- [IEEE Carleton Seminar - Building Learning Models on Google Cloud Platform](https://ekababisong.org/gcp-ml-seminar/)
-- [people.scs.carleton.ca/~maheshwa/courses/3801/3801.html](http://people.scs.carleton.ca/~maheshwa/courses/3801/3801.html)
-- [COMP 4107 -- Neural Networks](https://sikaman.dyndns.org:8443/WebSite/rest/site/courses/4107/index.html)
-- [Java IO: Streams](http://tutorials.jenkov.com/java-io/streams.html)
-- [Unit Testing with JUnit - Tutorial](https://www.vogella.com/tutorials/JUnit/article.html)
-- [Schedulers](https://automatetheboringstuff.com/schedulers.html)
-- [List of Programming Practice Sites](https://automatetheboringstuff.com/list-of-programming-practice-sites.html)
-- [List of CSS Selector Tutorials](https://automatetheboringstuff.com/list-of-css-selector-tutorials.html)
 
 ## Artificial Intelligence
 - [Artificial Intelligence Project Ideas for Final Year Students - Stacksol](http://stacksol.com/artificial-intelligence-project-ideas/)
@@ -148,7 +139,6 @@
 ## Data Science
 - [Data Science and Machine Learning Primer | EliteDataScience.com](https://elitedatascience.com/primer)
 - [How to Learn Math for Data Science, The Self-Starter Way](https://elitedatascience.com/learn-math-for-data-science)
-- [Cognitive Class - Free Data Science, AI, Blockchain and Cloud Computing Courses](https://cognitiveclass.ai/)
 - [Supervised vs. Unsupervised Learning – Towards Data Science](https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d)
 - [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 - [19 Free Public Data Sets For Your First Data Science Project | Springboard Blog](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
