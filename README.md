@@ -63,7 +63,7 @@
 
 ## Python
 - [Artificial Intelligence with Python Primer Concept](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_primer_concepts.htm)
-- [Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+- [Beautiful Soup Tutorial](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)
 
 ## AI
 - [(16) Housing | Finance and capital markets | Khan Academy](https://www.khanacademy.org/economics-finance-domain/core-finance/housing#renting-v-buying)
