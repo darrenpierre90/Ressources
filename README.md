@@ -141,6 +141,10 @@
 - [GitHub - llSourcell/learn_math_fast: This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube](https://github.com/llSourcell/learn_math_fast#questions-and-answers)
 - [index](https://nealcaren.github.io/python-tutorials/)
 - [Building Tools with GitHub - pdf - Free IT eBooks Download](http://www.allitebooks.org/building-tools-with-github/)
+
+-[Git interactive tutorial](https://learngitbranching.js.org)
+=======
+- [Online book on Git](https://launchschool.com/books/git)
 ## Data Science
 - [Data Science and Machine Learning Primer | EliteDataScience.com](https://elitedatascience.com/primer)
 - [How to Learn Math for Data Science, The Self-Starter Way](https://elitedatascience.com/learn-math-for-data-science)
