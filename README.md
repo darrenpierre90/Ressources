@@ -141,6 +141,7 @@
 - [GitHub - llSourcell/learn_math_fast: This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube](https://github.com/llSourcell/learn_math_fast#questions-and-answers)
 - [index](https://nealcaren.github.io/python-tutorials/)
 - [Building Tools with GitHub - pdf - Free IT eBooks Download](http://www.allitebooks.org/building-tools-with-github/)
+- [Windows and github] (https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-IlfH.JOcdI8VVT.XNmuPlw)
 
 -[Git interactive tutorial](https://learngitbranching.js.org)
 =======
