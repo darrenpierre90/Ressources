@@ -34,7 +34,6 @@
 - [Git Concepts](https://www.youtube.com/playlist?list=PLZUPq7POLO7_MpuOH6TKSuGubm3gEHOX1)
 - [Git cheatsheet](https://www.geeksforgeeks.org/list-useful-github-commands/)
 - [Online book on Git](https://launchschool.com/books/git)
-- [GitHub - dhilipsiva/awesome-programmer: A collection of resources to learn from and become a self-taught awesome programmer.](https://github.com/dhilipsiva/awesome-programmer)
 - [Building Tools with GitHub - pdf - Free IT eBooks Download](http://www.allitebooks.org/building-tools-with-github/)
 - [Windows and github](https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-IlfH.JOcdI8VVT.XNmuPlw)
 -[Git interactive tutorial](https://learngitbranching.js.org)
@@ -46,6 +45,7 @@
 ## Other
 - [aikorea/awesome-rl: Reinforcement learning resources curated](https://github.com/aikorea/awesome-rl)
 - [AI-COMP4106Project/COMP 4106 Project Final Report.pdf at master · ChristopherDufour/AI-COMP4106Project](https://github.com/ChristopherDufour/AI-COMP4106Project/blob/master/COMP%204106%20Project%20Final%20Report.pdf)
+- [GitHub - dhilipsiva/awesome-programmer: A collection of resources to learn from and become a self-taught awesome programmer.](https://github.com/dhilipsiva/awesome-programmer)
 
 
 ## Math for Machine Learning
