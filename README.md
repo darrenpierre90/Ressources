@@ -34,14 +34,27 @@
 - [Git Concepts](https://www.youtube.com/playlist?list=PLZUPq7POLO7_MpuOH6TKSuGubm3gEHOX1)
 - [Git cheatsheet](https://www.geeksforgeeks.org/list-useful-github-commands/)
 - [Online book on Git](https://launchschool.com/books/git)
+- [GitHub - dhilipsiva/awesome-programmer: A collection of resources to learn from and become a self-taught awesome programmer.](https://github.com/dhilipsiva/awesome-programmer)
+- [Building Tools with GitHub - pdf - Free IT eBooks Download](http://www.allitebooks.org/building-tools-with-github/)
+- [Windows and github](https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-IlfH.JOcdI8VVT.XNmuPlw)
+-[Git interactive tutorial](https://learngitbranching.js.org)
+- [Online book on Git](https://launchschool.com/books/git)
 
 ## JavaScript
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+
+## Other
+- [aikorea/awesome-rl: Reinforcement learning resources curated](https://github.com/aikorea/awesome-rl)
+- [AI-COMP4106Project/COMP 4106 Project Final Report.pdf at master · ChristopherDufour/AI-COMP4106Project](https://github.com/ChristopherDufour/AI-COMP4106Project/blob/master/COMP%204106%20Project%20Final%20Report.pdf)
 
 
 ## Math for Machine Learning
 - [Math for Machine Learning](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4)
 <dl>
+    
+    - [The Reading Brain in the Digital Age: The Science of Paper versus Screens - Scientific American](http://www.scientificamerican.com/article/reading-paper-screens/)
+- [GitHub - llSourcell/learn_math_fast: This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube](https://github.com/llSourcell/learn_math_fast#questions-and-answers)
+- [index](https://nealcaren.github.io/python-tutorials/)
     <dt>Probablity</dt>
     <dd> <a href="https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo">Harvard Probablity Course</a>  </dd>
     <dt>Linear Algebra</dt>
@@ -132,20 +145,7 @@
 - [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [Multivariable Calculus | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
 - [The AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
-## Git
-- [aikorea/awesome-rl: Reinforcement learning resources curated](https://github.com/aikorea/awesome-rl)
-- [AI-COMP4106Project/COMP 4106 Project Final Report.pdf at master · ChristopherDufour/AI-COMP4106Project](https://github.com/ChristopherDufour/AI-COMP4106Project/blob/master/COMP%204106%20Project%20Final%20Report.pdf)
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [GitHub - dhilipsiva/awesome-programmer: A collection of resources to learn from and become a self-taught awesome programmer.](https://github.com/dhilipsiva/awesome-programmer)
-- [The Reading Brain in the Digital Age: The Science of Paper versus Screens - Scientific American](http://www.scientificamerican.com/article/reading-paper-screens/)
-- [GitHub - llSourcell/learn_math_fast: This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube](https://github.com/llSourcell/learn_math_fast#questions-and-answers)
-- [index](https://nealcaren.github.io/python-tutorials/)
-- [Building Tools with GitHub - pdf - Free IT eBooks Download](http://www.allitebooks.org/building-tools-with-github/)
-- [Windows and github] (https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-IlfH.JOcdI8VVT.XNmuPlw)
 
--[Git interactive tutorial](https://learngitbranching.js.org)
-=======
-- [Online book on Git](https://launchschool.com/books/git)
 ## Data Science
 - [Data Science and Machine Learning Primer | EliteDataScience.com](https://elitedatascience.com/primer)
 - [How to Learn Math for Data Science, The Self-Starter Way](https://elitedatascience.com/learn-math-for-data-science)
