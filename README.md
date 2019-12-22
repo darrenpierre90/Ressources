@@ -1,6 +1,13 @@
 # CS Ressources
-
-
+## React 
+* [REact](https://www.freecodecamp.org/news/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6/)
+## Solr
+* [Solr Tutorial](http://www.solrtutorial.com/index.html)
+* [Solr and RDBMS: Designing your application for the best of both](https://lucidworks.com/post/solr-and-rdbms-the-basics-of-designing-your-application-for-the-best-of-both/)
+# OPertating system
+* (OS)[http://lass.cs.umass.edu/~shenoy/courses/377/lectures.html]
+## NLP with Python 
+[Pattern module](https://stackabuse.com/python-for-nlp-introduction-to-the-pattern-library/)
 ## How does the internet work?
 - [HTTP](https://launchschool.com/books/http/read/introduction)
 ## Machine Learning
